@@ -1,6 +1,7 @@
 # Övning: Computational Thinking Games
 
 Äntligen får vi koda på riktigt! Skapa de fullt fungerande spelen men användarinteraktioner och allt från Computational Thinking Games!
+Använd er av .prompt() för att ta input från användaren, och .alert() eller console.log() för att skriva ut resultat.
 
 ## Stegen
 
