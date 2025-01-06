@@ -27,7 +27,7 @@ Spelet har 3st tärningar.
 
 ## Sten, sax och påse
 
-Applicera datalogiskt tänkande på det klassiska spelet sten, sax och påse. Först till 3 vinster vinner!
+Skapa det klassiska spelet sten, sax och påse. Först till 3 vinster vinner!
 
 ## Fizzbuzz
 
